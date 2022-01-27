@@ -1,6 +1,6 @@
 package problem_reservation.src.model.entities;
 
-import exercise3.src.model.exceptions.DomainException;
+import problem_reservation.src.model.exceptions.DomainException;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
